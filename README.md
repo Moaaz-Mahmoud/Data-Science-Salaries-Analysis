@@ -17,15 +17,15 @@ The purpose of this project is to study the salaries in the Data Science field a
 - Originally has 12 columns and 607 rows.
 
 ## Key Findings
-[](images/exp_sal.svg)
+![](images/exp_sal.png)
 
 The most rapid growth in the salary with experience level appears to be in mid-sized companies.
 
-[](images/remote_sal.svg)
+![](images/remote_sal.png)
 
 Fully-remote jobs tend to pay higher than on-site and hybrid jobs. The difference seems to slowly increase with time.
 
-[](images/time_sal.svg)
+![](images/time_sal.png)
 
 Mid-sized companies are the ones affected by the pandemic the most. There appears to be a huge decline in salaries in 2021. What proves that is the rapid recovery in 2022.
 
