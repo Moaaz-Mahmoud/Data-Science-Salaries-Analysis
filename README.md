@@ -30,6 +30,8 @@ Fully-remote jobs tend to pay higher than on-site and hybrid jobs. The differenc
 Mid-sized companies are the ones affected by the pandemic the most. There appears to be a huge decline in salaries in 2021. What proves that is the rapid recovery in 2022.
 
 ## How to View the Project
-To view on GitHub, open [this notebook](notebook_github.ipynb). It uses the Plotly SVG renderer and it renders perfectly on GitHub. The only downside is that the plots are not interactive.
+**Option 1 (recommended):** View the project on Kaggle from [here](https://www.kaggle.com/code/moaazmahmoud1/data-science-salaries?scriptVersionId=102193760).
 
-You can also download [this notebook](notebook.ipynb) and run it on Jupyter Lab. This requires the libraries mentioned above.
+**Option 2:** To view on GitHub, open [this notebook](notebook_github.ipynb). It uses the Plotly SVG renderer and it renders well on GitHub. The only downside is that the `plotly` plots are not interactive.
+
+**Option 3:** You can also download [this notebook](notebook.ipynb) and run it on Jupyter Lab. This requires the libraries mentioned above. [The `plotly` plots will not render on GitHub.]
