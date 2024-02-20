@@ -21,7 +21,7 @@ The purpose of this project is to study the salaries in the Data Science field a
 
 The most rapid growth in the salary with experience level appears to be in mid-sized companies.
 
-![]([images/remote_sal.svg]()
+![](images/remote_sal.svg)
 
 Fully-remote jobs tend to pay higher than on-site and hybrid jobs. The difference seems to slowly increase with time.
 
